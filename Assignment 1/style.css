@@ -1,0 +1,114 @@
+#container {
+                    width: 820px;
+                }
+                
+                #container header{
+                    color: darkblue;
+                }
+                
+                
+                p{
+                    
+                    color: darkgray;
+                    
+                }
+                
+                #user_name,#email,#pass,#pass1 ,#user_id,#email_id{
+                    width: 325px;
+                    height: 30px;
+                    margin-bottom: 15px;
+                }
+                
+                #email_id{
+                    
+                    margin-right: 40px;
+                }
+               
+                ::-webkit-input-placeholder {
+                    
+                    padding-left: 10px;                       /*styling the placeholder*/
+                }
+                
+                #user_name,#email,#pass,#pass1{
+                    border-color: red;
+                }
+                
+            
+                
+                #form1{
+                    display: inline-block;
+                    /*border: 1px solid red;*/
+                    width: 325px;
+                    margin-left:22px;
+                    height: 300px;
+                } 
+                
+                #form1 header {
+                    color: darkgray;
+                }
+                
+                #form_head{
+                    color: darkblue;
+                }
+                
+                #regbttn{
+                    width: 110px;
+                    height: 30px;
+                    float: right;
+                    border-color: darkblue;
+                    color: darkblue;
+                    
+                    
+                }
+                #form2{
+                    background-color: darkblue;
+                    display: inline-block;
+                    float: right;
+                    width: 400px;
+                    margin-right: 32px;
+                    height: 290px;
+                    /*border: 1px solid blue;*/
+                }
+                
+                #form2 h4{
+                    color: white;
+                    margin-left: 20px;
+                    margin-bottom: 25px;
+                    margin-top: 12px;
+                }
+                
+               #checkbttn, #user_id,#email_id{
+                    
+                   margin-left: 10px;
+                }
+                
+                #check {
+                    color : white;
+                }
+                
+                #login_id {
+                    color: white;
+                    background-color: darkblue;
+                    border-color: orange;
+                    margin-left: 90px;
+                    height: 30px;
+                    width:110px;
+                    margin-bottom: 15px;
+                }
+                body {
+                    background-color: lightgrey;
+                   
+                   
+                }
+                #container {
+                    margin: 100px;
+                }
+                
+                #link_id{
+                    
+                    color: white;
+                   margin-left: 240px;
+                    font-size: 12px;
+                    
+                }
+              
